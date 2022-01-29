@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my graduation**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Svelte**
 
 - 👯 I’m looking to collaborate on **open source development**
 
